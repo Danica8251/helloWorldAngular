@@ -40,3 +40,9 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+# Java相關
+*.class
+
+# macOS相關
+.DS_Store
